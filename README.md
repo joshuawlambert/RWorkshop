@@ -1,2 +1,3 @@
-# RWorkshop
-An introductory R workshop
+## Welcome!
+
+Welcome to the 1st Annual Intro to R Workshop in the College of Nursing at the University of Cincinnati. You might ask, "Why R?" That is a good question and one that should be answered by the end of this workshop. In short, R offers a free, flexible, cutting edge, and easy to learn programming language. R can be used to run your statistical analysis, visualize and tabulate your data, harness the 10,000 packages to simplify 1000's of lines of code in one command, and create great looking research documents. Learning R is impowering and is a super useful for a career in research or number crunching. In this workshop I will introduce you to R and R studio as well how to install packages, import data, perform simple analysis, and create complex tables all with just a few lines of code. 
